@@ -1,10 +1,11 @@
 body
 {
-margin-right: 200px;
-margin-left: 200px;
+margin-right: auto;
+margin-left: auto;
 max-width: 600px;
 font-size:1.1em;
-font-style: arial
+font-style: arial;
+opacity : 0.7;
 }
 
 
